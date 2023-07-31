@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/one-hour--calculator/static/css/main.2a61912f.css",
+    "main.js": "/one-hour--calculator/static/js/main.ff88c905.js",
+    "static/js/787.a174f9e5.chunk.js": "/one-hour--calculator/static/js/787.a174f9e5.chunk.js",
+    "static/media/logo.svg": "/one-hour--calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/one-hour--calculator/index.html",
+    "main.2a61912f.css.map": "/one-hour--calculator/static/css/main.2a61912f.css.map",
+    "main.ff88c905.js.map": "/one-hour--calculator/static/js/main.ff88c905.js.map",
+    "787.a174f9e5.chunk.js.map": "/one-hour--calculator/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a61912f.css",
+    "static/js/main.ff88c905.js"
+  ]
+}
